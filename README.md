@@ -69,12 +69,6 @@ For any troubleshooting, please consult the [FAQ](FAQ.md) before asking for help
       </td>
   </tr>
   <tr>
-    <td style="width:100px"><img src="https://gsarti.com/authors/gsarti/avatar_hu02574c73d8d5cf0c41465216db38be2a_239118_250x250_fill_q90_lanczos_center.jpg" alt="Gabriele Sarti" style="width:800px"/></td>
-    <td>
-      <a href="https://gsarti.com"><b>Gabriele Sarti</b></a> is a PhD student in the <a href="https://www.rug.nl/research/clcg/research/cl/">Computational Linguistics Group</a> of the University of Groningen. He is part of the Dutch consortium <a href="https://projects.illc.uva.nl/indeep/">InDeep</a>, working on interpretability for language generation and neural machine translation. Previously, he was a research scientist at <a href="https://www.aindo.com/">Aindo</a> and a research intern at Amazon Translate NYC. His research interests involve interpretability for NLP, human-AI interaction and the usage of behavioral information like eye-tracking patterns to improve language understanding systems.
-    </td>
-  </tr>
-  <tr>
     <td style="width:100px"><img src="https://www.rug.nl/staff/j.qi/photo.jpg" alt="Jirui Qi" style="width:800px"/></td>
     <td>
       <a href="https://betswish.github.io/"><b>Jirui Qi</b></a> is a PhD student in the <a href="https://www.rug.nl/research/clcg/research/cl/">Computational Linguistics Group</a> of the University of Groningen. He is part of the Dutch consortium <a href="https://lessen-project.nl">LESSEN</a>, and his research mainly focuses on low-resource conversational generation, the generalization of factual knowledge across languages, and prompt-based learning for classification.
@@ -84,6 +78,12 @@ For any troubleshooting, please consult the [FAQ](FAQ.md) before asking for help
     <td style="width:100px"><img src="https://www.rug.nl/staff/l.zotos/profilerugpage.jpg" alt="Leo Zotos" style="width:800px"/></td>
     <td>
       <a href="https://www.linkedin.com/in/leonidas-zotos"><b>Leo Zotos</b></a> is a PhD student in the <a href="https://www.rug.nl/research/clcg/research/cl/">Computational Linguistics Group</a> of the University of Groningen. He works on the intersection between language modelling and human learning with a focus on multifaceted event understanding. The current focus is on multiple choice assessment methods and how these tests can be better designed to improve long term retention.
+    </td>
+  </tr>
+  <tr>
+    <td style="width:100px"><img src="https://www.rug.nl/staff/f.padovani/img-7645.jpg" alt="Francesca Padovani" style="width:800px"/></td>
+    <td>
+      <a href="https://fpadovani.github.io/"><b>Francesca Padovani</b></a> is a 2nd year PhD student in the <a href="https://www.rug.nl/research/clcg/research/cl/">Computational Linguistics Group</a> of the University of Groningen. Her project is part of the  <a href="https://www.nwo.nl/en/projects/vividi221c009">Polyglot Machines VIDI Grant</a>, working at the intersection between Language Acquisition, Linguistic Theory and Computational Modelling.
     </td>
   </tr>
 <tr>
@@ -97,6 +97,19 @@ We thank our past students Georg Groenendaal, Robin van der Noord, Ayça Avcı a
 
 <details>
   <summary><b>Teaching Assistants Alumni</summary>
+
+
+**2022/2025**
+
+<table>
+  <tr>
+    <td><img src="https://gsarti.com/authors/gsarti/avatar_hu02574c73d8d5cf0c41465216db38be2a_239118_250x250_fill_q90_lanczos_center.jpg" alt="https://gsarti.com" style="width:400px"/></td>
+    <td>
+      <a href="https://gsarti.com"><b>Gabriele Sarti</b></a> is a former PhD student in the <a href="https://www.rug.nl/research/clcg/research/cl/">Computational Linguistics Group</a> of the University of Groningen. He is part of the Dutch consortium <a href="https://projects.illc.uva.nl/indeep/">InDeep</a>, working on interpretability for language generation and neural machine translation. Previously, he was a research scientist at <a href="https://www.aindo.com/">Aindo</a> and a research intern at Amazon Translate NYC. His research interests involve interpretability for NLP, human-AI interaction and the usage of behavioral information like eye-tracking patterns to improve language understanding systems.
+    </td>
+  </tr>
+</table>
+
 
 **2023**
 
