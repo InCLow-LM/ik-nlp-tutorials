@@ -61,6 +61,8 @@ For any troubleshooting, please consult the [FAQ](FAQ.md) before asking for help
 
 ## About us
 
+These lab sessions have received contributions by several teachers & teaching assistants, listed here and below (under TA Alumni). We are particularly grateful to Gabriele Sarti for building the first version of this repo.
+
 <table>
   <tr>
     <td style="width:100px"><img src="http://www.cs.rug.nl/~bisazza/fig/arianna-2020.jpg" alt="Arianna Bisazza" style="width:800px"/></td>
