@@ -105,9 +105,9 @@ We thank our past students Georg Groenendaal, Robin van der Noord, Ayça Avcı a
 
 <table>
   <tr>
-    <td><img src="https://gsarti.com/authors/gsarti/avatar_hu02574c73d8d5cf0c41465216db38be2a_239118_250x250_fill_q90_lanczos_center.jpg" alt="https://gsarti.com" style="width:400px"/></td>
+    <td><img src="https://gsarti.com/authors/gsarti/avatar_hu02574c73d8d5cf0c41465216db38be2a_239118_250x250_fill_q90_lanczos_center.jpg" alt="Gabriele Sarti" style="width:800px"/></td>
     <td>
-      <a href="https://gsarti.com"><b>Gabriele Sarti</b></a> is a former PhD student in the <a href="https://www.rug.nl/research/clcg/research/cl/">Computational Linguistics Group</a> of the University of Groningen. He was part of the Dutch consortium <a href="https://projects.illc.uva.nl/indeep/">InDeep</a>, working on interpretability for language generation and neural machine translation. Previously, he was a research scientist at <a href="https://www.aindo.com/">Aindo</a> and a research intern at Amazon Translate NYC. His research interests involve interpretability for NLP, human-AI interaction and the usage of behavioral information like eye-tracking patterns to improve language understanding systems.
+      <a href="https://gsarti.com"><b>Gabriele Sarti</b></a> is a postdoc in the <a href="https://baulab.info/>BauLab</a> at Northeastern University, working on the <a href="https://ndif.us/">National Deep Inference Fabric (NDIF)</a> project to empower interpretability researchers with intuitive and extensible interfaces. Previously, he was a PhD student at the University of Groningen, where he completed his thesis on actionable interpretability for machine translation as a member of the InCLoW team, the GroNLP group, and the <a href="https://projects.illc.uva.nl/indeep/">Dutch InDeep consortium</a>. His supervisors were Arianna Bisazza, Malvina Nissim, and Grzegorz Chrupała. Before that, he was an applied scientist intern at Amazon Translate NYC, a research scientist at Aindo, and a Data Science MSc student at the University of Trieste, where he helped found the AI Student Society. His research aims to translate theoretical advances in language models interpretability into actionable insights for improving trustworthiness and human-AI collaboration.
     </td>
   </tr>
 </table>
