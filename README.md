@@ -117,7 +117,7 @@ We thank our past students Georg Groenendaal, Robin van der Noord, Ayça Avcı a
 
 <table>
   <tr>
-    <td style="width:100px"><img src="https://media.licdn.com/dms/image/v2/D4E03AQEb-m7pHdzNVA/profile-displayphoto-shrink_400_400/B4EZcWMnJCH0Ak-/0/1748424094789?e=1771459200&v=beta&t=MuZ52ONpSSXHG7eC6KQ7XxuPatmGcv8SUdnYcv7Znkk" alt="Ludwig Sickert" style="width:400px"/></td>
+    <td style="width:100px"><img src="https://media.licdn.com/dms/image/v2/D4E03AQEb-m7pHdzNVA/profile-displayphoto-shrink_400_400/B4EZcWMnJCH0Ak-/0/1748424094789?e=1771459200&v=beta&t=MuZ52ONpSSXHG7eC6KQ7XxuPatmGcv8SUdnYcv7Znkk" alt="Ludwig Sickert" style="width:800px"/></td>
     <td>
       <a href="https://www.linkedin.com/in/lsickert/"><b>Ludwig Sickert</b></a> is was an MSc candidate in AI at the University of Groningen. He attended the IK-NLP course in 2022 and worked on interpreting formality in machine translation systems for his master thesis under the supervision of Gabriele and Arianna. He served as TA for the 2023 edition of the course.
     </td>
@@ -128,7 +128,7 @@ We thank our past students Georg Groenendaal, Robin van der Noord, Ayça Avcı a
 
 <table>
   <tr>
-    <td style="width:100px"><img src="https://avatars.githubusercontent.com/u/25927244?v=4" alt="Anjali Nair" style="width:150px"/></td>
+    <td style="width:100px"><img src="https://avatars.githubusercontent.com/u/25927244?v=4" alt="Anjali Nair" style="width:800px"/></td>
     <td>
       <a href="https://nl.linkedin.com/in/anjalinair012"><b>Anjali Nair</b></a> was an MSc candidate in AI at the University of Groningen. She served as teaching assistant for the 2022 edition of the course.
     </td>
