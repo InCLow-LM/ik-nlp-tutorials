@@ -105,7 +105,7 @@ We thank our past students Georg Groenendaal, Robin van der Noord, Ayça Avcı a
 
 <table>
   <tr>
-    <td><img src="https://gsarti.com/authors/gsarti/avatar_hu02574c73d8d5cf0c41465216db38be2a_239118_250x250_fill_q90_lanczos_center.jpg" alt="Gabriele Sarti" style="width:800px"/></td>
+    <td style="width:100px"><img src="https://gsarti.com/authors/gsarti/avatar_hu02574c73d8d5cf0c41465216db38be2a_239118_250x250_fill_q90_lanczos_center.jpg" alt="Gabriele Sarti" style="width:800px"/></td>
     <td>
       <a href="https://gsarti.com"><b>Gabriele Sarti</b></a> is a postdoc in the <a href="https://baulab.info/>BauLab</a> at Northeastern University, working on the <a href="https://ndif.us/">National Deep Inference Fabric (NDIF)</a> project to empower interpretability researchers with intuitive and extensible interfaces. Previously, he was a PhD student at the University of Groningen, where he completed his thesis on actionable interpretability for machine translation as a member of the InCLoW team, the GroNLP group, and the <a href="https://projects.illc.uva.nl/indeep/">Dutch InDeep consortium</a>. His supervisors were Arianna Bisazza, Malvina Nissim, and Grzegorz Chrupała. Before that, he was an applied scientist intern at Amazon Translate NYC, a research scientist at Aindo, and a Data Science MSc student at the University of Trieste, where he helped found the AI Student Society. His research aims to translate theoretical advances in language models interpretability into actionable insights for improving trustworthiness and human-AI collaboration.
     </td>
@@ -117,7 +117,7 @@ We thank our past students Georg Groenendaal, Robin van der Noord, Ayça Avcı a
 
 <table>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/v2/D4E03AQEb-m7pHdzNVA/profile-displayphoto-shrink_400_400/B4EZcWMnJCH0Ak-/0/1748424094789?e=1771459200&v=beta&t=MuZ52ONpSSXHG7eC6KQ7XxuPatmGcv8SUdnYcv7Znkk" alt="Ludwig Sickert" style="width:400px"/></td>
+    <td style="width:100px"><img src="https://media.licdn.com/dms/image/v2/D4E03AQEb-m7pHdzNVA/profile-displayphoto-shrink_400_400/B4EZcWMnJCH0Ak-/0/1748424094789?e=1771459200&v=beta&t=MuZ52ONpSSXHG7eC6KQ7XxuPatmGcv8SUdnYcv7Znkk" alt="Ludwig Sickert" style="width:400px"/></td>
     <td>
       <a href="https://www.linkedin.com/in/lsickert/"><b>Ludwig Sickert</b></a> is was an MSc candidate in AI at the University of Groningen. He attended the IK-NLP course in 2022 and worked on interpreting formality in machine translation systems for his master thesis under the supervision of Gabriele and Arianna. He served as TA for the 2023 edition of the course.
     </td>
@@ -128,7 +128,7 @@ We thank our past students Georg Groenendaal, Robin van der Noord, Ayça Avcı a
 
 <table>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/25927244?v=4" alt="Anjali Nair" style="width:150px"/></td>
+    <td style="width:100px"><img src="https://avatars.githubusercontent.com/u/25927244?v=4" alt="Anjali Nair" style="width:150px"/></td>
     <td>
       <a href="https://nl.linkedin.com/in/anjalinair012"><b>Anjali Nair</b></a> was an MSc candidate in AI at the University of Groningen. She served as teaching assistant for the 2022 edition of the course.
     </td>
