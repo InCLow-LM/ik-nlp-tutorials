@@ -117,7 +117,7 @@ We thank our past students Georg Groenendaal, Robin van der Noord, Ayça Avcı a
 
 <table>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/C4D03AQHC30RRdIjJhQ/profile-displayphoto-shrink_800_800/0/1594219499683?e=1710979200&v=beta&t=r1gKeHxHt2n-6gt2I-bszRjodQM1mH5tZh8674Zup50" alt="Ludwig Sickert" style="width:400px"/></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/D4E03AQEb-m7pHdzNVA/profile-displayphoto-shrink_400_400/B4EZcWMnJCH0Ak-/0/1748424094789?e=1771459200&v=beta&t=MuZ52ONpSSXHG7eC6KQ7XxuPatmGcv8SUdnYcv7Znkk" alt="Ludwig Sickert" style="width:400px"/></td>
     <td>
       <a href="https://www.linkedin.com/in/lsickert/"><b>Ludwig Sickert</b></a> is was an MSc candidate in AI at the University of Groningen. He attended the IK-NLP course in 2022 and worked on interpreting formality in machine translation systems for his master thesis under the supervision of Gabriele and Arianna. He served as TA for the 2023 edition of the course.
     </td>
